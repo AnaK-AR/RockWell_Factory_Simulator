@@ -1,4 +1,6 @@
 import styles from "./inicio-de-sesin1.module.css";
+import React from 'react';
+import RegistrationForm from './RegistrationForm';
 
 const InicioDeSesin1 = () => {
   return (
